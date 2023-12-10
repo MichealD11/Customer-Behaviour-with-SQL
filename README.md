@@ -1,5 +1,17 @@
 # SQL Project – Unveiling Customer Insights
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Tool Used](#tool-used)
+- [Datasets](#datasets)
+- [Database and Table Creation](#database-and-table-creation)
+  	- [Sales Table](#sales-table)
+  	- [Menu Table](#menu-table)
+  	- [Members Table](#members-table)
+- [Case Study Questions](#case-study-questions)
+
 ## Project Overview
 
 This project is aimed at analyzing Dany's dinner restaurant's (a japanese cuisine) customer behaviour using MySQL. By analyzing various aspects of the data, we seek to gain a deeper understanding of the chocolate company's sales performance by using the following SQL statements;
@@ -107,4 +119,4 @@ VALUES
 12.   Rank all the things
 
 
-
+🖥️ 😄
